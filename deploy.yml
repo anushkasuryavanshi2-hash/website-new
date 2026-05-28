@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: custom
-        image: akshat531/project2
+        image: nush1998/sample
         ports:
         - containerPort: 80
